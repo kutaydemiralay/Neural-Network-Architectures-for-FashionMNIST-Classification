@@ -33,3 +33,8 @@ The Adam optimizer, with an appropriate learning rate, Kaiming Uniform initializ
 
 But when I used the AlexNet CNN architecture for classifying the same FashionMNIST dataset, I achieved significantly better classification performance. The testing accuracy with AlexNet CNN reached up to 93.14% in only 10 epochs, whereas with FCN, the highest testing accuracy I could achieve was 88.46% in 50 epochs, even with optimal tuning.
 
+
+![Adam Optimizer](./images/CNN.png)
+
+
+*Figure 2: Plots of loss over epochs and accuracy through epochs with AlexNet CNN architecture
