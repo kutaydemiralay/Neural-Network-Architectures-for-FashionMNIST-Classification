@@ -16,7 +16,7 @@ In this project, our objective is to train different neural network architecture
 
 You can find the detailed documentation in the PDF below:
 
-[Project Paper](./Neural%20Network%20Architectures%20for%20FashionMNIST%20Classification_KutayDemiralay.pdf)
+[View the Project Paper](./Neural%20Network%20Architectures%20for%20FashionMNIST%20Classification_KutayDemiralay.pdf)
 
 ## Code
 
