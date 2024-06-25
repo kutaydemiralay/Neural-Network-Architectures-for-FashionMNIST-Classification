@@ -17,3 +17,8 @@ In this project, our objective is to train different neural network architecture
 You can find the detailed documentation in the PDF below:
 
 [Project Paper](./Paper.pdf)
+
+
+## Results
+
+ Plots of loss over epochs and accuracy through epochs for training, validation, and testing were generated. From these values, the optimal network for classifying the FashionMNIST dataset was chosen across various architectures, optimizers, initialization techniques, regularizations, and normalizations.
