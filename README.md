@@ -22,3 +22,15 @@ You can find the detailed documentation in the PDF below:
 ## Results
 
  Plots of loss over epochs and accuracy through epochs for training, validation, and testing were generated. From these values, the optimal network for classifying the FashionMNIST dataset was chosen across various architectures, optimizers, initialization techniques, regularizations, and normalizations.
+
+The Adam optimizer, with an appropriate learning rate, Kaiming Uniform initialization, and batch normalization proved to be the most effective for our base model with FCN  neural network architecture, even though it exhibited some underfitting characteristics
+
+![Adam Optimizer](./images/Adam.png)
+
+
+*Figure 1: Plots of loss over epochs and accuracy through epochs Base Model with Adam Optimizer with  Kaiming Uniform initialization, and batch normalization*
+
+
+
+But when I used the AlexNet CNN architecture for classifying the same FashionMNIST dataset, I achieved significantly better classification performance. The testing accuracy with AlexNet CNN reached up to 93.14% in only 10 epochs, whereas with FCN, the highest testing accuracy I could achieve was 88.46% in 50 epochs, even with optimal tuning.
+
