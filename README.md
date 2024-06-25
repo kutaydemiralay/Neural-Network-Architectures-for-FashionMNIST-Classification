@@ -18,6 +18,13 @@ You can find the detailed documentation in the PDF below:
 
 [Project Paper](./Neural%20Network%20Architectures%20for%20FashionMNIST%20Classification_KutayDemiralay.pdf)
 
+## Code
+
+You can find the relevant Python codes below:
+
+[View the Project Code](./Neural_Network_Architectures_for_FashionMNIST_Classification_KutayDemiralay.ipynb)
+
+
 ## Results
 
  Plots of loss over epochs and accuracy through epochs for training, validation, and testing were generated. From these values, the optimal network for classifying the FashionMNIST dataset was chosen across various architectures, optimizers, initialization techniques, regularizations, and normalizations.
