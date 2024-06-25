@@ -37,9 +37,9 @@ But when I used the AlexNet CNN architecture for classifying the same FashionMNI
 ![Adam Optimizer](./images/CNNAlexNet.png)
 
 
-*Figure 2: Plots of loss over epochs and accuracy through epochs with AlexNet CNN architecture
+*Figure 2: Plots of loss over epochs and accuracy through epochs with AlexNet CNN architecture*
 
 ![Adam Optimizer](./images/AlexNet.png)
 
 
-*Figure 3:AlexNet CNN architecture explained
+*Figure 3:AlexNet CNN architecture explained [2]*
